@@ -51,3 +51,10 @@ function mostraPergunta() {
 }
 
 mostraPergunta();
+function mostrarAltrnativas() {
+    for (const alternativa of perguntaAtual.alternativas)
+        const botaoAlternativas = document.createElement("button");
+    botaoAlternativa.textContent = alternativas;
+    caixaAlternativa.appendchild(botaoAlternativas);
+}
+}
