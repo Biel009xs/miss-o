@@ -8,15 +8,11 @@ const perguntas = [
     {
 const perguntas = [
   {
-    enunciado: "Você ja teve a curiosidade pra saber como tudo funciona ? como as estrelas queimam ? como funciona a velocidade luz ? e se eu te falar que existe uma inteligência artificial capaz de responder qualquer pergunta sua, o que você acharia?  ",
-    alternativas: [
-        texto: "Isso não muda muito!",
-        afirmacao: "afirmação",
-        texto: "Isso é maravilhoso!",
-        afirmacao: "afirmação",
-      },
-    ]
-  ]}
+        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        alternativas: [
+            "Isso é assustador!",
+            "Isso é maravilhoso!"
+        ]
     {
         enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
         alternativas: [
