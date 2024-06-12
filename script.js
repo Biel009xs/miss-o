@@ -10,11 +10,8 @@ const perguntas = [
   {
     enunciado: "Você ja teve a curiosidade pra saber como tudo funciona ? como as estrelas queimam ? como funciona a velocidade luz ? e se eu te falar que existe uma inteligência artificial capaz de responder qualquer pergunta sua, o que você acharia?  ",
     alternativas: [
-      {
         texto: "Isso não muda muito!",
         afirmacao: "afirmação",
-      },
-      {
         texto: "Isso é maravilhoso!",
         afirmacao: "afirmação",
       },
