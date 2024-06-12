@@ -6,12 +6,20 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você ja teve a curiosidade pra saber como tudo funciona ? como as estrelas queimam ? como funciona a velocidade luz ? e se eu te falar que existe uma inteligência artificial capaz de responder qualquer pergunta sua, o que você acharia?  ",
-        alternativas: [
-            "Isso não muda muito!",
-            "Isso é maravilhoso!"
-        ]
-    },
+const perguntas = [
+  {
+    enunciado: "Você ja teve a curiosidade pra saber como tudo funciona ? como as estrelas queimam ? como funciona a velocidade luz ? e se eu te falar que existe uma inteligência artificial capaz de responder qualquer pergunta sua, o que você acharia?  ",
+    alternativas: [
+      {
+        texto: "Isso não muda muito!",
+        afirmacao: "afirmação",
+      },
+      {
+        texto: "Isso é maravilhoso!",
+        afirmacao: "afirmação",
+      },
+    ]
+  ]}
     {
         enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
         alternativas: [
