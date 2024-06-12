@@ -8,7 +8,7 @@ const perguntas = [
     {
 const perguntas = [
   {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você ja teve a curiosidade pra saber como tudo funciona ? como as estrelas queimam ? como funciona a velocidade luz ? e se eu te falar que existe uma inteligência artificial capaz de responder qualquer pergunta sua, o que você acharia?  ",
         alternativas: [
             "Isso é assustador!",
             "Isso é maravilhoso!"
